@@ -27,4 +27,5 @@
 ##### If you could have a say, what should the product do / what should it be good for?						
 - JU:	be a game game game!							
 #### MindMup
-- To be added
+- Current state:
+![MindMup](https://image.ibb.co/c0jLvV/current-project-mup.png)
