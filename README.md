@@ -2,9 +2,6 @@
 ## (THE Powerful Reliable Open Jovial Encouraging Creative Thing)
 
 ### Preparation
-#### MindMup
-- https://drive.mindmup.com/map/1LZwIXqnTYcv5MZbwuQpPjoWCFnYKHiGR
-
 #### Surveys (nosy questions)
 ##### Willing/able to work with tools & technologies?												
 - platforms		
@@ -30,7 +27,10 @@
 - JU:	H.P.Luvkraft's creations							
 - JU:	H.R.Giger's creations							
 - JU:	inanimage things getting damaged, destroyed, or going boom							
-- JU:	those interactive-fiction books							
+- JU:	those interactive-fiction books	
+
+#### MindMup
+- To be added
 																	
 ##### If you could have a say, what should the product do / what should it be good for?									
 - JU:	be a game game game!							
