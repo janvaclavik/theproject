@@ -28,4 +28,5 @@
 - JU:	be a game game game!							
 #### MindMup
 - Current state:
-![MindMup](https://image.ibb.co/c0jLvV/current-project-mup.png)
+![MindMup](https://raw.githubusercontent.com/janvaclavik/theproject/master/docs/mind_mup.png)
+ 
