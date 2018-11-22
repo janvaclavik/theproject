@@ -6,7 +6,7 @@
 - https://drive.mindmup.com/map/1LZwIXqnTYcv5MZbwuQpPjoWCFnYKHiGR
 
 #### Surveys (nosy questions)
-Willing/able to work with tools & technologies?																	
+##### Willing/able to work with tools & technologies?												
 - platforms		
   + JU:	whatever that runs on a desktop; can't target mobiles; can be in-browser							
   + JV:														
